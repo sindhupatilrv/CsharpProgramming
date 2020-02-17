@@ -1,0 +1,11 @@
+C:\Users\sindhuganesh\source\repos\Solution1\ConsoleApp1\bin\Debug\netcoreapp3.1\Contractor.exe
+C:\Users\sindhuganesh\source\repos\Solution1\ConsoleApp1\bin\Debug\netcoreapp3.1\Contractor.deps.json
+C:\Users\sindhuganesh\source\repos\Solution1\ConsoleApp1\bin\Debug\netcoreapp3.1\Contractor.runtimeconfig.json
+C:\Users\sindhuganesh\source\repos\Solution1\ConsoleApp1\bin\Debug\netcoreapp3.1\Contractor.runtimeconfig.dev.json
+C:\Users\sindhuganesh\source\repos\Solution1\ConsoleApp1\bin\Debug\netcoreapp3.1\Contractor.dll
+C:\Users\sindhuganesh\source\repos\Solution1\ConsoleApp1\bin\Debug\netcoreapp3.1\Contractor.pdb
+C:\Users\sindhuganesh\source\repos\Solution1\ConsoleApp1\obj\Debug\netcoreapp3.1\Contractor.csprojAssemblyReference.cache
+C:\Users\sindhuganesh\source\repos\Solution1\ConsoleApp1\obj\Debug\netcoreapp3.1\Contractor.AssemblyInfoInputs.cache
+C:\Users\sindhuganesh\source\repos\Solution1\ConsoleApp1\obj\Debug\netcoreapp3.1\Contractor.AssemblyInfo.cs
+C:\Users\sindhuganesh\source\repos\Solution1\ConsoleApp1\obj\Debug\netcoreapp3.1\Contractor.dll
+C:\Users\sindhuganesh\source\repos\Solution1\ConsoleApp1\obj\Debug\netcoreapp3.1\Contractor.pdb

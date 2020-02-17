@@ -1,0 +1,13 @@
+C:\Users\sindhuganesh\source\repos\Solution1\Contractor\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\sindhuganesh\source\repos\Solution1\Contractor\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\sindhuganesh\source\repos\Solution1\Contractor\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\sindhuganesh\source\repos\Solution1\Contractor\bin\Debug\Contractor.dll
+C:\Users\sindhuganesh\source\repos\Solution1\Contractor\bin\Debug\Contractor.pdb
+C:\Users\sindhuganesh\source\repos\Solution1\Contractor\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\sindhuganesh\source\repos\Solution1\Contractor\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\sindhuganesh\source\repos\Solution1\Contractor\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\sindhuganesh\source\repos\Solution1\Contractor\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\sindhuganesh\source\repos\Solution1\Contractor\obj\Debug\Contractor.csprojAssemblyReference.cache
+C:\Users\sindhuganesh\source\repos\Solution1\Contractor\obj\Debug\Contractor.csproj.CopyComplete
+C:\Users\sindhuganesh\source\repos\Solution1\Contractor\obj\Debug\Contractor.dll
+C:\Users\sindhuganesh\source\repos\Solution1\Contractor\obj\Debug\Contractor.pdb
