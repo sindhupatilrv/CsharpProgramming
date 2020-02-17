@@ -1,0 +1,11 @@
+C:\Users\sindhuganesh\source\repos\Solution1\FileFuncations\bin\Debug\netcoreapp3.1\Filefuncations.exe
+C:\Users\sindhuganesh\source\repos\Solution1\FileFuncations\bin\Debug\netcoreapp3.1\Filefuncations.deps.json
+C:\Users\sindhuganesh\source\repos\Solution1\FileFuncations\bin\Debug\netcoreapp3.1\Filefuncations.runtimeconfig.json
+C:\Users\sindhuganesh\source\repos\Solution1\FileFuncations\bin\Debug\netcoreapp3.1\Filefuncations.runtimeconfig.dev.json
+C:\Users\sindhuganesh\source\repos\Solution1\FileFuncations\bin\Debug\netcoreapp3.1\Filefuncations.dll
+C:\Users\sindhuganesh\source\repos\Solution1\FileFuncations\bin\Debug\netcoreapp3.1\Filefuncations.pdb
+C:\Users\sindhuganesh\source\repos\Solution1\FileFuncations\obj\Debug\netcoreapp3.1\Filefuncations.csprojAssemblyReference.cache
+C:\Users\sindhuganesh\source\repos\Solution1\FileFuncations\obj\Debug\netcoreapp3.1\Filefuncations.AssemblyInfoInputs.cache
+C:\Users\sindhuganesh\source\repos\Solution1\FileFuncations\obj\Debug\netcoreapp3.1\Filefuncations.AssemblyInfo.cs
+C:\Users\sindhuganesh\source\repos\Solution1\FileFuncations\obj\Debug\netcoreapp3.1\Filefuncations.dll
+C:\Users\sindhuganesh\source\repos\Solution1\FileFuncations\obj\Debug\netcoreapp3.1\Filefuncations.pdb

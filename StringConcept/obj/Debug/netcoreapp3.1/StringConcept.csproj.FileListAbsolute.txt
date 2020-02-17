@@ -1,0 +1,11 @@
+C:\Users\sindhuganesh\source\repos\Solution1\StringConcept\bin\Debug\netcoreapp3.1\StringConcept.exe
+C:\Users\sindhuganesh\source\repos\Solution1\StringConcept\bin\Debug\netcoreapp3.1\StringConcept.deps.json
+C:\Users\sindhuganesh\source\repos\Solution1\StringConcept\bin\Debug\netcoreapp3.1\StringConcept.runtimeconfig.json
+C:\Users\sindhuganesh\source\repos\Solution1\StringConcept\bin\Debug\netcoreapp3.1\StringConcept.runtimeconfig.dev.json
+C:\Users\sindhuganesh\source\repos\Solution1\StringConcept\bin\Debug\netcoreapp3.1\StringConcept.dll
+C:\Users\sindhuganesh\source\repos\Solution1\StringConcept\bin\Debug\netcoreapp3.1\StringConcept.pdb
+C:\Users\sindhuganesh\source\repos\Solution1\StringConcept\obj\Debug\netcoreapp3.1\StringConcept.csprojAssemblyReference.cache
+C:\Users\sindhuganesh\source\repos\Solution1\StringConcept\obj\Debug\netcoreapp3.1\StringConcept.AssemblyInfoInputs.cache
+C:\Users\sindhuganesh\source\repos\Solution1\StringConcept\obj\Debug\netcoreapp3.1\StringConcept.AssemblyInfo.cs
+C:\Users\sindhuganesh\source\repos\Solution1\StringConcept\obj\Debug\netcoreapp3.1\StringConcept.dll
+C:\Users\sindhuganesh\source\repos\Solution1\StringConcept\obj\Debug\netcoreapp3.1\StringConcept.pdb
