@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sindhuganesh\\source\\repos\\Solution1\\StringConcept\\StringConcept.csproj",
+      "projectUniqueName": "C:\\Users\\sindhuganesh\\source\\repos\\CsharpProgramming\\codefromgit\\StringConcept\\StringConcept.csproj",
       "projectName": "StringConcept",
-      "projectPath": "C:\\Users\\sindhuganesh\\source\\repos\\Solution1\\StringConcept\\StringConcept.csproj",
+      "projectPath": "C:\\Users\\sindhuganesh\\source\\repos\\CsharpProgramming\\codefromgit\\StringConcept\\StringConcept.csproj",
       "packagesPath": "C:\\Users\\sindhuganesh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sindhuganesh\\source\\repos\\Solution1\\StringConcept\\obj\\",
+      "outputPath": "C:\\Users\\sindhuganesh\\source\\repos\\CsharpProgramming\\codefromgit\\StringConcept\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sindhuganesh\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

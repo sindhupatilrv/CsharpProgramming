@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sindhuganesh\\source\\repos\\Solution1\\Inheritance\\Inheritance.csproj",
+      "projectUniqueName": "C:\\Users\\sindhuganesh\\source\\repos\\CsharpProgramming\\codefromgit\\Inheritance\\Inheritance.csproj",
       "projectName": "Inheritance",
-      "projectPath": "C:\\Users\\sindhuganesh\\source\\repos\\Solution1\\Inheritance\\Inheritance.csproj",
+      "projectPath": "C:\\Users\\sindhuganesh\\source\\repos\\CsharpProgramming\\codefromgit\\Inheritance\\Inheritance.csproj",
       "packagesPath": "C:\\Users\\sindhuganesh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sindhuganesh\\source\\repos\\Solution1\\Inheritance\\obj\\",
+      "outputPath": "C:\\Users\\sindhuganesh\\source\\repos\\CsharpProgramming\\codefromgit\\Inheritance\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sindhuganesh\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

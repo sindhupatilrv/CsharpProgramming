@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sindhuganesh\\source\\repos\\Solution1\\ArrayConcept\\ArrayConcept.csproj",
+      "projectUniqueName": "C:\\Users\\sindhuganesh\\source\\repos\\CsharpProgramming\\codefromgit\\ArrayConcept\\ArrayConcept.csproj",
       "projectName": "ArrayConcept",
-      "projectPath": "C:\\Users\\sindhuganesh\\source\\repos\\Solution1\\ArrayConcept\\ArrayConcept.csproj",
+      "projectPath": "C:\\Users\\sindhuganesh\\source\\repos\\CsharpProgramming\\codefromgit\\ArrayConcept\\ArrayConcept.csproj",
       "packagesPath": "C:\\Users\\sindhuganesh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sindhuganesh\\source\\repos\\Solution1\\ArrayConcept\\obj\\",
+      "outputPath": "C:\\Users\\sindhuganesh\\source\\repos\\CsharpProgramming\\codefromgit\\ArrayConcept\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sindhuganesh\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,0 +1,7 @@
+C:\Users\sindhuganesh\source\repos\CsharpProgramming\codefromgit\Collection\bin\Debug\Collection.exe.config
+C:\Users\sindhuganesh\source\repos\CsharpProgramming\codefromgit\Collection\bin\Debug\Collection.exe
+C:\Users\sindhuganesh\source\repos\CsharpProgramming\codefromgit\Collection\bin\Debug\Collection.pdb
+C:\Users\sindhuganesh\source\repos\CsharpProgramming\codefromgit\Collection\obj\Debug\Collection.csprojAssemblyReference.cache
+C:\Users\sindhuganesh\source\repos\CsharpProgramming\codefromgit\Collection\obj\Debug\Collection.csproj.CoreCompileInputs.cache
+C:\Users\sindhuganesh\source\repos\CsharpProgramming\codefromgit\Collection\obj\Debug\Collection.exe
+C:\Users\sindhuganesh\source\repos\CsharpProgramming\codefromgit\Collection\obj\Debug\Collection.pdb
