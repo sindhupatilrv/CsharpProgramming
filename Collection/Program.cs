@@ -10,7 +10,12 @@ namespace Collection
     {
         public static void Main(string[] args)
         {
-            // list 
+           Console.WriteLine("List Examples\n- int");
+           listintexmaple();
+        }
+
+        public static void  listintexmaple()
+        {
             List<int> listname = new List<int>();
             listname.Add(10);
             listname.Add(20);
@@ -27,11 +32,10 @@ namespace Collection
 
             index = listname.IndexOf(50); // Does not exist.
             Console.WriteLine(index);
-           
-
+            
             //specific index print
-            Console.WriteLine(listname[1]);
-            Console.WriteLine(listname.ElementAt(2));
+            Console.WriteLine("Specific index" +listname[1]);
+            Console.WriteLine("Specific index" + listname.ElementAt(2));
             Console.ReadLine();
         }
     }
