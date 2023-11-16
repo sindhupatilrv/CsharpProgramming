@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\sindhuganesh\\.nuget\\packages\\": {}
+    "C:\\Users\\ganes\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sindhuganesh\\source\\repos\\CsharpProgramming\\codefromgit\\ConsoleApp1\\Contractor.csproj",
+      "projectUniqueName": "C:\\Users\\ganes\\OneDrive\\Csharprevise\\ConsoleApp1\\Contractor.csproj",
       "projectName": "Contractor",
-      "projectPath": "C:\\Users\\sindhuganesh\\source\\repos\\CsharpProgramming\\codefromgit\\ConsoleApp1\\Contractor.csproj",
-      "packagesPath": "C:\\Users\\sindhuganesh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sindhuganesh\\source\\repos\\CsharpProgramming\\codefromgit\\ConsoleApp1\\obj\\",
+      "projectPath": "C:\\Users\\ganes\\OneDrive\\Csharprevise\\ConsoleApp1\\Contractor.csproj",
+      "packagesPath": "C:\\Users\\ganes\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ganes\\OneDrive\\Csharprevise\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\sindhuganesh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ganes\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -32,6 +32,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -43,22 +44,42 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "imports": [
           "net461",
           "net462",
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[3.1.10, 3.1.10]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[3.1.32, 3.1.32]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[3.1.0, 3.1.0]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[3.1.0, 3.1.0]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
       }
     }
   }

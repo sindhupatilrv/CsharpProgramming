@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "PrE9dfxyh8WPXaij7SuY48WfcwnWi7Usa5AVAN0I+YBViJStfBO+IxWM4vwWSqiIRKQl7+ntqm+A6HsAqsUZBA==",
+  "dgSpecHash": "qn8aaKIT5TsalAGP3PPoTLlrLipvzkJ86jmZOPYvmTZ364wYFLWyclub9LpafIhYK3zhxvZ0IdZ/QmhXmeb3Mg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sindhuganesh\\source\\repos\\CsharpProgramming\\codefromgit\\FileFuncations\\Filefuncations.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\ganes\\OneDrive\\Csharprevise\\FileFuncations\\Filefuncations.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ganes\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\ganes\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\ganes\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\ganes\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "tmV7bGHkQS4vu7C6G3nFlK4d91SDlmh8vHIGG9PHMxbq89u9FP1rD0lTpG31l4NcW0d3r7R7YKhIwRukGrJ6mQ==",
+  "dgSpecHash": "Q1xEO7J9580SDi8+C4geIfZM+gUuu0FYyRNTxapdMnfhbPmMwMgbgpwPa0EwVhatCSt5BCPJdcsTjRsJNj7BZA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sindhuganesh\\source\\repos\\CsharpProgramming\\codefromgit\\ConsoleApp1\\Contractor.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\ganes\\OneDrive\\Csharprevise\\ConsoleApp1\\Contractor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ganes\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\ganes\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\ganes\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\ganes\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
   "logs": []
 }
