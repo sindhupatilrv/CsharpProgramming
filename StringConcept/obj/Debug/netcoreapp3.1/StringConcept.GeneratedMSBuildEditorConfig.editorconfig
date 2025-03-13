@@ -1,3 +1,8 @@
 is_global = true
 build_property.RootNamespace = StringConcept
-build_property.ProjectDir = C:\Users\ganes\OneDrive\Csharprevise\StringConcept\
+build_property.ProjectDir = C:\Users\sindhupatil\c#basiclearning\StringConcept\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 
+build_property.EnableCodeStyleSeverity = 

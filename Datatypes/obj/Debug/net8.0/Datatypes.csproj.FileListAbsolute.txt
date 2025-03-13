@@ -1,0 +1,15 @@
+C:\Users\sindhupatil\c#basiclearning\Datatypes\bin\Debug\net8.0\Datatypes.exe
+C:\Users\sindhupatil\c#basiclearning\Datatypes\bin\Debug\net8.0\Datatypes.deps.json
+C:\Users\sindhupatil\c#basiclearning\Datatypes\bin\Debug\net8.0\Datatypes.runtimeconfig.json
+C:\Users\sindhupatil\c#basiclearning\Datatypes\bin\Debug\net8.0\Datatypes.dll
+C:\Users\sindhupatil\c#basiclearning\Datatypes\bin\Debug\net8.0\Datatypes.pdb
+C:\Users\sindhupatil\c#basiclearning\Datatypes\obj\Debug\net8.0\Datatypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sindhupatil\c#basiclearning\Datatypes\obj\Debug\net8.0\Datatypes.AssemblyInfoInputs.cache
+C:\Users\sindhupatil\c#basiclearning\Datatypes\obj\Debug\net8.0\Datatypes.AssemblyInfo.cs
+C:\Users\sindhupatil\c#basiclearning\Datatypes\obj\Debug\net8.0\Datatypes.csproj.CoreCompileInputs.cache
+C:\Users\sindhupatil\c#basiclearning\Datatypes\obj\Debug\net8.0\Datatypes.sourcelink.json
+C:\Users\sindhupatil\c#basiclearning\Datatypes\obj\Debug\net8.0\Datatypes.dll
+C:\Users\sindhupatil\c#basiclearning\Datatypes\obj\Debug\net8.0\refint\Datatypes.dll
+C:\Users\sindhupatil\c#basiclearning\Datatypes\obj\Debug\net8.0\Datatypes.pdb
+C:\Users\sindhupatil\c#basiclearning\Datatypes\obj\Debug\net8.0\Datatypes.genruntimeconfig.cache
+C:\Users\sindhupatil\c#basiclearning\Datatypes\obj\Debug\net8.0\ref\Datatypes.dll

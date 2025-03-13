@@ -9,3 +9,17 @@ C:\Users\sindhuganesh\source\repos\Solution1\StringConcept\obj\Debug\netcoreapp3
 C:\Users\sindhuganesh\source\repos\Solution1\StringConcept\obj\Debug\netcoreapp3.1\StringConcept.AssemblyInfo.cs
 C:\Users\sindhuganesh\source\repos\Solution1\StringConcept\obj\Debug\netcoreapp3.1\StringConcept.dll
 C:\Users\sindhuganesh\source\repos\Solution1\StringConcept\obj\Debug\netcoreapp3.1\StringConcept.pdb
+C:\Users\sindhupatil\c#basiclearning\StringConcept\bin\Debug\netcoreapp3.1\StringConcept.exe
+C:\Users\sindhupatil\c#basiclearning\StringConcept\bin\Debug\netcoreapp3.1\StringConcept.deps.json
+C:\Users\sindhupatil\c#basiclearning\StringConcept\bin\Debug\netcoreapp3.1\StringConcept.runtimeconfig.json
+C:\Users\sindhupatil\c#basiclearning\StringConcept\bin\Debug\netcoreapp3.1\StringConcept.runtimeconfig.dev.json
+C:\Users\sindhupatil\c#basiclearning\StringConcept\bin\Debug\netcoreapp3.1\StringConcept.dll
+C:\Users\sindhupatil\c#basiclearning\StringConcept\bin\Debug\netcoreapp3.1\StringConcept.pdb
+C:\Users\sindhupatil\c#basiclearning\StringConcept\obj\Debug\netcoreapp3.1\StringConcept.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sindhupatil\c#basiclearning\StringConcept\obj\Debug\netcoreapp3.1\StringConcept.AssemblyInfoInputs.cache
+C:\Users\sindhupatil\c#basiclearning\StringConcept\obj\Debug\netcoreapp3.1\StringConcept.AssemblyInfo.cs
+C:\Users\sindhupatil\c#basiclearning\StringConcept\obj\Debug\netcoreapp3.1\StringConcept.csproj.CoreCompileInputs.cache
+C:\Users\sindhupatil\c#basiclearning\StringConcept\obj\Debug\netcoreapp3.1\StringConcept.sourcelink.json
+C:\Users\sindhupatil\c#basiclearning\StringConcept\obj\Debug\netcoreapp3.1\StringConcept.dll
+C:\Users\sindhupatil\c#basiclearning\StringConcept\obj\Debug\netcoreapp3.1\StringConcept.pdb
+C:\Users\sindhupatil\c#basiclearning\StringConcept\obj\Debug\netcoreapp3.1\StringConcept.genruntimeconfig.cache

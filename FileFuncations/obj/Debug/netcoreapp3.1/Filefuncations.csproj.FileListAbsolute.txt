@@ -9,3 +9,17 @@ C:\Users\sindhuganesh\source\repos\Solution1\FileFuncations\obj\Debug\netcoreapp
 C:\Users\sindhuganesh\source\repos\Solution1\FileFuncations\obj\Debug\netcoreapp3.1\Filefuncations.AssemblyInfo.cs
 C:\Users\sindhuganesh\source\repos\Solution1\FileFuncations\obj\Debug\netcoreapp3.1\Filefuncations.dll
 C:\Users\sindhuganesh\source\repos\Solution1\FileFuncations\obj\Debug\netcoreapp3.1\Filefuncations.pdb
+C:\Users\sindhupatil\c#basiclearning\FileFuncations\bin\Debug\netcoreapp3.1\Filefuncations.exe
+C:\Users\sindhupatil\c#basiclearning\FileFuncations\bin\Debug\netcoreapp3.1\Filefuncations.deps.json
+C:\Users\sindhupatil\c#basiclearning\FileFuncations\bin\Debug\netcoreapp3.1\Filefuncations.runtimeconfig.json
+C:\Users\sindhupatil\c#basiclearning\FileFuncations\bin\Debug\netcoreapp3.1\Filefuncations.runtimeconfig.dev.json
+C:\Users\sindhupatil\c#basiclearning\FileFuncations\bin\Debug\netcoreapp3.1\Filefuncations.dll
+C:\Users\sindhupatil\c#basiclearning\FileFuncations\bin\Debug\netcoreapp3.1\Filefuncations.pdb
+C:\Users\sindhupatil\c#basiclearning\FileFuncations\obj\Debug\netcoreapp3.1\Filefuncations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sindhupatil\c#basiclearning\FileFuncations\obj\Debug\netcoreapp3.1\Filefuncations.AssemblyInfoInputs.cache
+C:\Users\sindhupatil\c#basiclearning\FileFuncations\obj\Debug\netcoreapp3.1\Filefuncations.AssemblyInfo.cs
+C:\Users\sindhupatil\c#basiclearning\FileFuncations\obj\Debug\netcoreapp3.1\Filefuncations.csproj.CoreCompileInputs.cache
+C:\Users\sindhupatil\c#basiclearning\FileFuncations\obj\Debug\netcoreapp3.1\Filefuncations.sourcelink.json
+C:\Users\sindhupatil\c#basiclearning\FileFuncations\obj\Debug\netcoreapp3.1\Filefuncations.dll
+C:\Users\sindhupatil\c#basiclearning\FileFuncations\obj\Debug\netcoreapp3.1\Filefuncations.pdb
+C:\Users\sindhupatil\c#basiclearning\FileFuncations\obj\Debug\netcoreapp3.1\Filefuncations.genruntimeconfig.cache
