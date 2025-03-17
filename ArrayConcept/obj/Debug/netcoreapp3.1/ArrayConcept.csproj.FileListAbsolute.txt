@@ -22,3 +22,17 @@ C:\Users\sindhuganesh\source\repos\CsharpProgramming\codefromgit\ArrayConcept\ob
 C:\Users\sindhuganesh\source\repos\CsharpProgramming\codefromgit\ArrayConcept\obj\Debug\netcoreapp3.1\ArrayConcept.dll
 C:\Users\sindhuganesh\source\repos\CsharpProgramming\codefromgit\ArrayConcept\obj\Debug\netcoreapp3.1\ArrayConcept.pdb
 C:\Users\sindhuganesh\source\repos\CsharpProgramming\codefromgit\ArrayConcept\obj\Debug\netcoreapp3.1\ArrayConcept.genruntimeconfig.cache
+C:\Users\sindhupatil\c#basiclearning\ArrayConcept\bin\Debug\netcoreapp3.1\ArrayConcept.exe
+C:\Users\sindhupatil\c#basiclearning\ArrayConcept\bin\Debug\netcoreapp3.1\ArrayConcept.deps.json
+C:\Users\sindhupatil\c#basiclearning\ArrayConcept\bin\Debug\netcoreapp3.1\ArrayConcept.runtimeconfig.json
+C:\Users\sindhupatil\c#basiclearning\ArrayConcept\bin\Debug\netcoreapp3.1\ArrayConcept.runtimeconfig.dev.json
+C:\Users\sindhupatil\c#basiclearning\ArrayConcept\bin\Debug\netcoreapp3.1\ArrayConcept.dll
+C:\Users\sindhupatil\c#basiclearning\ArrayConcept\bin\Debug\netcoreapp3.1\ArrayConcept.pdb
+C:\Users\sindhupatil\c#basiclearning\ArrayConcept\obj\Debug\netcoreapp3.1\ArrayConcept.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sindhupatil\c#basiclearning\ArrayConcept\obj\Debug\netcoreapp3.1\ArrayConcept.AssemblyInfoInputs.cache
+C:\Users\sindhupatil\c#basiclearning\ArrayConcept\obj\Debug\netcoreapp3.1\ArrayConcept.AssemblyInfo.cs
+C:\Users\sindhupatil\c#basiclearning\ArrayConcept\obj\Debug\netcoreapp3.1\ArrayConcept.csproj.CoreCompileInputs.cache
+C:\Users\sindhupatil\c#basiclearning\ArrayConcept\obj\Debug\netcoreapp3.1\ArrayConcept.sourcelink.json
+C:\Users\sindhupatil\c#basiclearning\ArrayConcept\obj\Debug\netcoreapp3.1\ArrayConcept.dll
+C:\Users\sindhupatil\c#basiclearning\ArrayConcept\obj\Debug\netcoreapp3.1\ArrayConcept.pdb
+C:\Users\sindhupatil\c#basiclearning\ArrayConcept\obj\Debug\netcoreapp3.1\ArrayConcept.genruntimeconfig.cache

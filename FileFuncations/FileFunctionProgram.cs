@@ -3,7 +3,7 @@ using System.IO;
 
 namespace Filefuncations
 {
-    public class Program
+    public class FileFunctionProgram
     {
         public static void Main(string[] args)
         {

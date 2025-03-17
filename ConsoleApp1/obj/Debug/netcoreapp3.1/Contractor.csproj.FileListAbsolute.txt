@@ -9,3 +9,17 @@ C:\Users\sindhuganesh\source\repos\Solution1\ConsoleApp1\obj\Debug\netcoreapp3.1
 C:\Users\sindhuganesh\source\repos\Solution1\ConsoleApp1\obj\Debug\netcoreapp3.1\Contractor.AssemblyInfo.cs
 C:\Users\sindhuganesh\source\repos\Solution1\ConsoleApp1\obj\Debug\netcoreapp3.1\Contractor.dll
 C:\Users\sindhuganesh\source\repos\Solution1\ConsoleApp1\obj\Debug\netcoreapp3.1\Contractor.pdb
+C:\Users\sindhupatil\c#basiclearning\ConsoleApp1\bin\Debug\netcoreapp3.1\Contractor.exe
+C:\Users\sindhupatil\c#basiclearning\ConsoleApp1\bin\Debug\netcoreapp3.1\Contractor.deps.json
+C:\Users\sindhupatil\c#basiclearning\ConsoleApp1\bin\Debug\netcoreapp3.1\Contractor.runtimeconfig.json
+C:\Users\sindhupatil\c#basiclearning\ConsoleApp1\bin\Debug\netcoreapp3.1\Contractor.runtimeconfig.dev.json
+C:\Users\sindhupatil\c#basiclearning\ConsoleApp1\bin\Debug\netcoreapp3.1\Contractor.dll
+C:\Users\sindhupatil\c#basiclearning\ConsoleApp1\bin\Debug\netcoreapp3.1\Contractor.pdb
+C:\Users\sindhupatil\c#basiclearning\ConsoleApp1\obj\Debug\netcoreapp3.1\Contractor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sindhupatil\c#basiclearning\ConsoleApp1\obj\Debug\netcoreapp3.1\Contractor.AssemblyInfoInputs.cache
+C:\Users\sindhupatil\c#basiclearning\ConsoleApp1\obj\Debug\netcoreapp3.1\Contractor.AssemblyInfo.cs
+C:\Users\sindhupatil\c#basiclearning\ConsoleApp1\obj\Debug\netcoreapp3.1\Contractor.csproj.CoreCompileInputs.cache
+C:\Users\sindhupatil\c#basiclearning\ConsoleApp1\obj\Debug\netcoreapp3.1\Contractor.sourcelink.json
+C:\Users\sindhupatil\c#basiclearning\ConsoleApp1\obj\Debug\netcoreapp3.1\Contractor.dll
+C:\Users\sindhupatil\c#basiclearning\ConsoleApp1\obj\Debug\netcoreapp3.1\Contractor.pdb
+C:\Users\sindhupatil\c#basiclearning\ConsoleApp1\obj\Debug\netcoreapp3.1\Contractor.genruntimeconfig.cache

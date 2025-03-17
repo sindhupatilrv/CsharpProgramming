@@ -5,3 +5,10 @@ C:\Users\sindhuganesh\source\repos\CsharpProgramming\codefromgit\Collection\obj\
 C:\Users\sindhuganesh\source\repos\CsharpProgramming\codefromgit\Collection\obj\Debug\Collection.csproj.CoreCompileInputs.cache
 C:\Users\sindhuganesh\source\repos\CsharpProgramming\codefromgit\Collection\obj\Debug\Collection.exe
 C:\Users\sindhuganesh\source\repos\CsharpProgramming\codefromgit\Collection\obj\Debug\Collection.pdb
+C:\Users\sindhupatil\c#basiclearning\Collection\bin\Debug\Collection.exe.config
+C:\Users\sindhupatil\c#basiclearning\Collection\bin\Debug\Collection.exe
+C:\Users\sindhupatil\c#basiclearning\Collection\bin\Debug\Collection.pdb
+C:\Users\sindhupatil\c#basiclearning\Collection\obj\Debug\Collection.csproj.AssemblyReference.cache
+C:\Users\sindhupatil\c#basiclearning\Collection\obj\Debug\Collection.csproj.CoreCompileInputs.cache
+C:\Users\sindhupatil\c#basiclearning\Collection\obj\Debug\Collection.exe
+C:\Users\sindhupatil\c#basiclearning\Collection\obj\Debug\Collection.pdb

@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\sindhupatil\\c#basiclearning\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9012A331-388D-47C2-931A-4B73AC242C65}|FileFuncations\\Filefuncations.csproj|c:\\users\\sindhupatil\\c#basiclearning\\filefuncations\\filefunctionprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9012A331-388D-47C2-931A-4B73AC242C65}|FileFuncations\\Filefuncations.csproj|solutionrelative:filefuncations\\filefunctionprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50BEC76A-B9B7-4530-B84E-2867918C08C1}|ExceptionHandling\\ExceptionHandling.csproj|c:\\users\\sindhupatil\\c#basiclearning\\exceptionhandling\\exceptionhandlingprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50BEC76A-B9B7-4530-B84E-2867918C08C1}|ExceptionHandling\\ExceptionHandling.csproj|solutionrelative:exceptionhandling\\exceptionhandlingprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{586ED213-D6AB-4DC4-B894-11501C001259}|Datatypes\\Datatypes.csproj|c:\\users\\sindhupatil\\c#basiclearning\\datatypes\\datatypelearning.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{586ED213-D6AB-4DC4-B894-11501C001259}|Datatypes\\Datatypes.csproj|solutionrelative:datatypes\\datatypelearning.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E42A7144-53F5-4821-B0B3-9E208A3941F2}|ConsoleApp1\\Contractor.csproj|c:\\users\\sindhupatil\\c#basiclearning\\consoleapp1\\contractorprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E42A7144-53F5-4821-B0B3-9E208A3941F2}|ConsoleApp1\\Contractor.csproj|solutionrelative:consoleapp1\\contractorprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7DE2719B-A993-4CB6-9680-F281414EFD24}|StringConcept\\StringConcept.csproj|c:\\users\\sindhupatil\\c#basiclearning\\stringconcept\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7DE2719B-A993-4CB6-9680-F281414EFD24}|StringConcept\\StringConcept.csproj|solutionrelative:stringconcept\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{586ED213-D6AB-4DC4-B894-11501C001259}|Datatypes\\Datatypes.csproj|c:\\users\\sindhupatil\\c#basiclearning\\datatypes\\datatypelearning.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{586ED213-D6AB-4DC4-B894-11501C001259}|Datatypes\\Datatypes.csproj|solutionrelative:datatypes\\datatypelearning.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,11 +34,11 @@
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Bookmark",
@@ -43,19 +51,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "FileFunctionProgram.cs",
+              "DocumentMoniker": "C:\\Users\\sindhupatil\\c#basiclearning\\FileFuncations\\FileFunctionProgram.cs",
+              "RelativeDocumentMoniker": "FileFuncations\\FileFunctionProgram.cs",
+              "ToolTip": "C:\\Users\\sindhupatil\\c#basiclearning\\FileFuncations\\FileFunctionProgram.cs",
+              "RelativeToolTip": "FileFuncations\\FileFunctionProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T18:54:07.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExceptionHandlingProgram.cs",
+              "DocumentMoniker": "C:\\Users\\sindhupatil\\c#basiclearning\\ExceptionHandling\\ExceptionHandlingProgram.cs",
+              "RelativeDocumentMoniker": "ExceptionHandling\\ExceptionHandlingProgram.cs",
+              "ToolTip": "C:\\Users\\sindhupatil\\c#basiclearning\\ExceptionHandling\\ExceptionHandlingProgram.cs",
+              "RelativeToolTip": "ExceptionHandling\\ExceptionHandlingProgram.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAQwFMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T01:18:30.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "ContractorProgram.cs",
               "DocumentMoniker": "C:\\Users\\sindhupatil\\c#basiclearning\\ConsoleApp1\\ContractorProgram.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\ContractorProgram.cs",
               "ToolTip": "C:\\Users\\sindhupatil\\c#basiclearning\\ConsoleApp1\\ContractorProgram.cs",
               "RelativeToolTip": "ConsoleApp1\\ContractorProgram.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-13T01:47:51.474Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\sindhupatil\\c#basiclearning\\StringConcept\\Program.cs",
               "RelativeDocumentMoniker": "StringConcept\\Program.cs",
@@ -74,7 +108,7 @@
               "RelativeDocumentMoniker": "Datatypes\\Datatypelearning.cs",
               "ToolTip": "C:\\Users\\sindhupatil\\c#basiclearning\\Datatypes\\Datatypelearning.cs",
               "RelativeToolTip": "Datatypes\\Datatypelearning.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAALcAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAgwLcAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-12T14:10:53.76Z",
               "EditorCaption": ""
